@@ -1,0 +1,4 @@
+This Tango Server has been written and tested on Ubuntu 14.04 64-bit and 
+Ubuntu 16.04 64-bit with libtango 9.2.2 and newer.
+Won't build with libtango 8.x because some Tango8 macros have been
+turned into statically defined variables in the Tango namespace.
